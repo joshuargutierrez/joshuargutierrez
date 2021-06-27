@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshuargutierrez
-- 👀 I’m interested in Strategy Games, Computers, and Learning
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity projects using Invector
+- 👀 I’m interested in Data Science, AI, Web Development, and Game Theory
+- 🌱 I’m currently studying Unity and Laravel
 - 📫 How to reach me joshuarg@nmsu.edu
 
 <!---
