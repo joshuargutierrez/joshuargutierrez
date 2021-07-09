@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuargutierrez
-- 👀 I’m interested in Data Science, AI, Web Development, and Game Theory
+- 👀 I’m interested in Data Science, AI, and web and game development.
 - 🌱 I’m currently studying Unity and Laravel
 - 📫 How to reach me joshuarg@nmsu.edu
 
