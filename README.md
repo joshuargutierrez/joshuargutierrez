@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuargutierrez
 - 👀 I’m interested in Data Science, AI, and web and game development.
-- 🌱 I’m currently studying Unity and Laravel
+- 🌱 I’m currently studying Parallel Programming, Databases, Human Centered Computing, andLinux System Administration
 - 📫 How to reach me joshuarg@nmsu.edu
 
 <!---
