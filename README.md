@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuargutierrez
-- 👀 I’m interested in Data Science, AI, and web and game development.
-- 🌱 I’m currently studying Parallel Programming, Databases, Human Centered Computing, and Linux System Administration
-- 📫 How to reach me joshuarg@nmsu.edu
+- 👀 I’m  a Computer Science graduate that bspecializes in WordPress and VR development
+- 🌱 I’m currently studying WordPress theme development, WooCommerce, and API integration.
+- 📫 How to reach me joshg@joshuarg.net
 
 <!---
 joshuargutierrez/joshuargutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
