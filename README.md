@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuargutierrez
-- 👀 I’m  a Computer Science graduate that bspecializes in WordPress and VR development
-- 🌱 I’m currently studying WordPress theme development, WooCommerce, and API integration.
-- 📫 How to reach me joshg@joshuarg.net
+- 👀 I’m  a Computer Science graduate that specializes in WordPress, Python, Unity, and C# development
+- 🌱 I’m currently building Imminent Invasion, a 3rd person melee-shooter.
+- 📫 How to reach me joshuarg@joshuarg.com
 
 <!---
 joshuargutierrez/joshuargutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
